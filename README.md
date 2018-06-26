@@ -1,2 +1,2 @@
 # Machine_Learning_Course
-Assignments for CPSC540 at UBC
+Assignments for a graduate course in machine learning at UBC
